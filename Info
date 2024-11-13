@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INFORMACION SOBRE MI</title>
+</head>
+<body>
+    <h1>INFORMACION</h1>
+    <p>Hola,mi nombre es Luis Arce y estos son mis pasatiempos</p>
+    <h1>PASATIEMPOS</h1>
+    <ol>
+<li>APRENDER NUEVAS COSAS</li>
+<li>LEER COMICS</li>
+<li>JUGAR VIDEOJUEGOS</li>
+    </ol>
+    <img src="https://www.multisargumentis.com/wp-content/uploads/2021/02/Aprender-a-aprender.jpeg" alt="">
+    <img src="https://static.wikia.nocookie.net/spiderman/images/b/b0/Superior_Spider-Man_Vol_1_12.png/revision/latest?cb=20140113004707&path-prefix=es" alt="">
+    <img src="https://static.wikia.nocookie.net/fallout/images/6/66/Victor_FNV.jpg/revision/latest?cb=20110801202338" alt="">
+</body>
+</html>
